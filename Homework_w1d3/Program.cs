@@ -116,6 +116,7 @@ namespace Homework_w1d3
             int number4 = int.Parse(Console.ReadLine());
 
             double sum = number1 + number2 + number3 + number4;
+            //can also make an average variable, then write the average below.
             Console.WriteLine("Watch this. It's a trick. The mean is " + (sum / 4) + ".");
 
 
